@@ -31,3 +31,19 @@ Accept: application/json
 ### Séance 2 — agrégation : note moyenne par genre
 GET {{host}}/games/stats
 Accept: application/json
+
+### Séance 3
+POST {{host}}/leaderboard/Nova/points/100.0
+Accept: application/json
+
+### Séance 3
+POST {{host}}/leaderboard/Nova/points/100.0
+Accept: application/json
+
+### Séance 3
+GET {{host}}/leaderboard/top/5
+Accept: application/json
+
+### Séance 3
+GET {{host}}/leaderboard/rank/Nova
+Accept: application/json

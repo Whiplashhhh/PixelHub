@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72
 	ProjectSection(SolutionItems) = preProject
 		src\notes.md = src\notes.md
 		src\notesTP2.md = src\notesTP2.md
+		src\notesTP3.md = src\notesTP3.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelHub.Api", "src\PixelHub.Api\PixelHub.Api.csproj", "{383F6286-E7C7-47CC-AB4D-43B2D23D17FD}"
